@@ -62,13 +62,6 @@
     "course": "Data Science",
     "message": "Interested in cloud computing training."
   },
-  "9": {
-    "name": "Neha Kapoor",
-    "email": "neha.kapoor@example.com",
-    "phone": "+91-7601234567",
-    "course": "Artificial Intelligence",
-    "message": "Looking for guidance on research projects."
-  },
   "10": {
     "name": "vvvvvv",
     "email": "admin@themesbrand.com",
@@ -76,5 +69,5 @@
     "course": "esrdfghjkl",
     "message": "tdfghjkl"
   },
-  "updatedAt": "2025-05-04T06:14:38.674Z"
+  "updatedAt": "2025-05-04T06:14:52.124Z"
 }
