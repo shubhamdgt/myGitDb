@@ -1,11 +1,4 @@
 {
-  "1": {
-    "name": "Isha pathani",
-    "email": "isha.mehta@example.com",
-    "phone": "+91-8765432109",
-    "course": "Information Technology",
-    "message": "Need help with resume building."
-  },
   "2": {
     "name": "Rohan Verma",
     "email": "rohan.verma@example.com",
@@ -70,5 +63,5 @@
     "course": "esrdfghjkl",
     "message": "tdfghjkl"
   },
-  "updatedAt": "2025-05-21T12:27:11.096Z"
+  "updatedAt": "2025-05-21T12:30:14.090Z"
 }
